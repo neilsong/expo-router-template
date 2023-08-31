@@ -36,4 +36,5 @@ jobs:
         uses: wearerequired/lint-action@v2
         with:
           auto_fix: true
+          prettier: true
           eslint: true
