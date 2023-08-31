@@ -1,7 +1,7 @@
 # fratracker
 TS + Expo Router App for Fratracker
 
-[![GitHub Super-Linter](https://github.com/neilsong/fratracker/actions/workflows/<WORKFLOW_FILE_NAME>/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![GitHub Super-Linter](https://github.com/neilsong/fratracker/actions/workflows/super-linter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 ## Q&D README
 
