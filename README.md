@@ -1,4 +1,5 @@
 # fratracker
+
 TS + Expo Router App for Fratracker
 
 ## Q&D README
