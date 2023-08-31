@@ -2,3 +2,4 @@
 **/.github/*
 **/.expo/*
 **/*.config.js
+**/__tests__/*
