@@ -1,6 +1,6 @@
-# fratracker
+# Expo Router Template
 
-TS + Expo Router App for Fratracker
+TS + Expo Router App Template, with up-to-date dependencies.
 
 ## Q&D README 
 
