@@ -2,7 +2,7 @@
 
 TS + Expo Router App Template, with up-to-date dependencies.
 
-## Q&D README 
+## Q&D README
 
 1. Clone the repo
 2. Make sure you have `node.js` and `npm` installed locally
